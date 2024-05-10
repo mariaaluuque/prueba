@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante Español - Inicio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace a un archivo CSS para estilos -->
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a [Nombre del Restaurante]</h1>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menú</a></li>
+                <li><a href="#reservas">Reservas</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="#acerca-de">Acerca de Nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>Descubre la auténtica cocina española</h2>
+        <p>Sumérgete en una experiencia culinaria única con platos tradicionales y sabores inolvidables.</p>
+        <a href="#menu" class="btn">Ver Menú</a>
+    </section>
+
+    <section id="menu">
+        <h2>Menú</h2>
+        <!-- Aquí irían los platos del menú -->
+    </section>
+
+    <section id="reservas">
+        <h2>Reservas</h2>
+        <!-- Formulario de reservas -->
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <!-- Información de contacto y formulario de contacto -->
+    </section>
+
+    <section id="acerca-de">
+        <h2>Acerca de Nosotros</h2>
+        <!-- Breve información sobre el restaurante -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Restaurante Español. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
